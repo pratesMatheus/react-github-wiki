@@ -1,6 +1,6 @@
 # React-GitHub-Wiki
 
-Vamos consumir a API do GitHub e retornar os repositórios do mesmo, baseado no usuário e para isso vamos precisar do axios para fazer o consumdo do API
+Searching and listing my repositories with the github API using axios and reactjs with styled-components. Only works with public repositories, and this means that search will not work with any user's private repositories. Consuming the GitHub API
 
 ```
 yarn add axios styled-components
